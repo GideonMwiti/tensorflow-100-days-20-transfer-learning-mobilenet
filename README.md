@@ -31,6 +31,8 @@ The script saves a plot named `transfer_learning_results.png` showing:
 - Loss and accuracy curves.
 - A prediction showcase of 12 test samples with green/red borders indicating correctness.
 
+![Transfer Learning Results](transfer_learning_results.png)
+
 ## Repository Details
 - **Name**: `tensorflow-100-days-20-transfer-learning-mobilenet`
 - **Description**: Transfer learning implementation using MobileNetV2 from TensorFlow Hub as a frozen feature extractor and a custom classification head in tf_keras, trained on a synthetic Cats vs Dogs dataset.
